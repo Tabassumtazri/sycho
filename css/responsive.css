@@ -1,0 +1,1342 @@
+/* XL Device :1200px. */
+@media (min-width: 1650px) and (max-width: 5000px) {
+	.ex-margin{
+		margin:0 105px;
+	}
+	.ex-padding{
+		padding:0 105px;
+	}
+  .nav-contact a {
+    margin: 35px 50px 33px 0;
+  }
+  .main-menu.desktop li.has-sub a {
+    padding-right: 43px;
+  }
+  .main-menu > ul > li > a {
+    padding-right: 43px;
+  }
+  .main-menu ul li a.active::before {
+    left: 27%;
+  }
+  .slick-slider ul.slick-dots li button::after, .main-menu ul li a::before {
+    left: 27%;
+  }
+	h1 {
+		font-size: 105px;
+		line-height: 105px;
+  }
+  .slider-bg-text {
+    top: 144px;
+    left: 16%;
+  }
+  .slider-content {
+    min-height: 1040px;
+  }
+  .slider-img {
+    width: 115%;
+    height: 810px;
+    padding-left: 25px;
+  }
+  .title h3 {
+		font-size: 50px;
+		line-height: 65px;
+  }
+  .testimonial-title .title-bottom {
+    margin-bottom: 85px;
+  }
+  .slider-text .btn {
+    margin-top: 60px;
+  }
+  .about-margin {
+    margin-top: -245px;
+  }
+  .about-features li span {
+    margin-right: 15px;
+  }
+  .about-features li a {
+    font-size: 27px;
+  }
+  .slick-slider .slick-dots {
+    left: 55%;
+  }
+  .title-center {
+    padding: 0 175px;
+  }
+  .patient-feedback {
+    margin-top: -70px;
+  }
+  .blog-content h5 {
+    font-size: 27px;
+  }
+  .blog-bottom {
+    padding-top: 35px;
+  }
+  .about-margin {
+    margin-top: -218px;
+  }
+  .about-left img {
+    height: 650px;
+  }
+  .about-right .title {
+    margin-bottom: 80px;
+  }
+  .appointment-top {
+	  margin-top: -156px;
+  }
+  li.single-case img {
+    height: 500px;
+  }
+  li.single-case.slick-slide.slick-current.slick-active.slick-center {
+    transform: scale(1.02);
+  }
+  .case-studies-slider.slick-initialized.slick-slider li.single-case {
+    transform: scale(.95);
+  }
+  .slick-slider .l-a {
+	top: 50%;
+	left: 47px;
+	width: 70px;
+  }
+.testimonial-area .slick-slider .l-a {
+	left: -100px;
+}
+.testimonial-area .slick-slider .r-a {
+	right: -100px;
+}
+.slick-slider .r-a {
+	width: 75px;
+}
+.slick-slider .l-a {
+	width: 75px;
+}
+.slick-slider .r-a {
+	width: 75px;
+}
+
+}
+
+@media (min-width: 1500px) and (max-width: 1700px) {
+  .slider-img {
+    padding-left: 30px;
+  }
+  h1 {
+    font-size: 100px;
+    line-height: 100px;
+  }
+ 
+} 
+ 
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  .nav-bar{display: none;}
+  .slider-img {
+    height: 630px;
+    padding-left: 10px;
+  }
+  .nav-contact a {
+    margin: 35px 0 33px 0;
+  }
+  h1 {
+    font-size: 78px;
+  }
+  .slider-content {
+    min-height: 869px;
+  }
+  .experience p {
+    font-size: 28px;
+    line-height: 45px;
+    padding: 50px 47px;
+  }
+  .experience {
+    width: 300px;
+    height: 215px;
+  }
+  .sub-btn::before {
+    left: 61px;
+    bottom: 29px;
+  }
+  .pl-20.pt-30.pb-2 {
+    padding-left: 0;
+  }
+  .about-margin {
+    margin-top: -220px;
+  }
+  .about-right {
+    margin-top: 110px;
+    padding-right: 60px;
+  }
+  .about-features li a {
+    font-size: 27px;
+  }
+  .testimonial-area .slick-slider .l-a {
+    left: -34px;
+    width: 45px;
+  }
+  .testimonial-area .slick-slider .r-a {
+    right: -34px;
+    width: 45px;
+  }
+  .title-center {
+    padding: 0 100px;
+  }
+  .service-title {
+    padding-left: 0;
+  }
+  .single-ser-height img {
+    min-height: 410px;
+  }
+  .psychologist-left {
+    margin-top: 0;
+    margin-left: -25px;
+  }
+  .appointment-left form {
+    padding: 100px;
+  }
+  .psychologist-left {
+    margin-top: 22px;
+  }
+  .psychologist-height {
+    min-height: 745px;
+  }
+  .appointment-right .title {
+    padding-right: 240px;
+  }
+  .achievement li.border-left {
+    border-left: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-bottom {
+    border-bottom: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-right {
+    border-right: none!important;
+    padding-left: 0;
+  }
+  .achievement li {
+    min-width: 50%;
+  }
+  .appointment-right {
+    margin-left: 15px;
+    margin-right: -15px;
+  }
+  .case-title {
+    padding-left: 20px;
+  }
+  .price-content {
+    min-height: 435px;
+  }
+  .single-testimonial {
+    background: #fff;
+    padding: 40px 20px;
+  }
+  .testimonial-height {
+    height: 758px;
+    margin-bottom: 140px;
+  }
+  .blog-content h5{
+    font-size:20px
+  }
+  .blog-bottom {
+    flex-direction: column;
+    padding-top: 12px;
+  }
+  .about-left {
+    margin: 0 40px;
+  }
+  .price-content .btn {
+    margin-bottom: -92px;
+  }
+  .footer-touch-area {
+    margin-left: 0;
+    margin-right: 138px;
+  }
+  .patient {
+    padding: 28px 5px;
+  }
+  .slider-img {
+    padding-left: 0;
+  }
+  .about-right {
+    margin-top: 130px;
+  }
+  .psychologist-left {
+    margin-top: 40px;
+    margin-left: -22px;
+  }
+  .appointment-right {
+    margin-top: 130px;
+    margin-right: -15px;
+    margin-left: 15px;
+  }
+  .case-studies-slider {
+    padding-top: 80px;
+  }
+  .title-center {
+    padding: 0 110px;
+  }
+  .price-content .btn {
+    margin-bottom: -60px;
+  }
+  .single-price {
+    padding-bottom: 40px;
+  }
+  .map-area {
+    margin-left: 30px;
+  }
+}
+
+
+ /* Extra medium Device. */
+ @media (min-width: 769px) and (max-width: 992px) {
+  .footer-touch-area {
+    margin-left: 0;
+    margin-right: 138px;
+  }
+  .slider-img {
+    width: 100%;
+    height: 600px;
+    padding-left: 0;
+    padding-top: 0;
+    margin-bottom: 130px;
+  }
+  .blog-bottom {
+    flex-direction: column;
+  }
+  .slider-text {
+    padding-top: 100px;
+    padding-right: 70px;
+  }
+  .slick-slider .slick-dots {
+    left: 50%;
+    margin-left: 0;
+  }
+  .sub-btn::before {
+    left: 61px;
+    bottom: 29px;
+  }
+  .single-feature.d-flex.justify-content-end,
+  .feature-area .row {
+    justify-content: inherit!important;
+  }
+  .single-feature {
+    border: none;
+    margin-bottom: 90px;
+    padding: 0;
+  }
+  .feature-height {
+    min-height: 542px;
+    padding: 30px;
+  }
+  .bdr-bottom{
+    border: none;
+  }
+  .about-margin {
+    margin-top: 0;
+  }
+  .feature-height {
+    min-height: 540px;
+    padding: 30px;
+    padding-top: 130px;
+  }
+  .testimonial-area .slick-slider .l-a {
+	left: -50px;
+  }
+  .testimonial-area .slick-slider .r-a {
+    right: -50px;
+  }
+  .achievement li {
+    min-width: 50%;
+    float: left;
+    text-align: center;
+  }
+  .appointment-right {
+    padding-left: 0;
+    margin-left: 15px;
+    margin-right: -15px;
+    margin-top: 130px;
+  }
+  .contact-height {
+    margin-top: 0;
+  }
+  .title h3 {
+    padding-right: 40px;
+  }
+  .contact-form .title {
+    padding-right: 254px;
+  }
+  .appointment-right .title {
+    padding: 0 45px;
+  }
+  .about-right {
+    margin-top: 120px;
+  }
+  .about-right .title {
+    padding-right: 50px;
+  }
+  .title-center {
+    padding: 0;
+  }
+  .psychologist-left {
+    height: 630px;
+    margin-top: 109px;
+    margin-left: -66px;
+  }
+  .appointment-top {
+    margin-top: 120px;
+  }  
+  .psychologist-height {
+    min-height: 740px;
+  }
+  .achievement li.border-left {
+    border-left: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-bottom {
+    border-bottom: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-right {
+    border-right: none!important;
+    padding-left: 0;
+  }
+  .price-content {
+    margin-bottom: 50px;
+  }
+  .map-area {
+    width: 100%;
+    height: 560px;
+    margin-top: 90px;
+    margin-left: 0;
+    margin-bottom: 120px;
+  }
+  .patient {
+    padding: 28px 10px;
+  }
+  .title.testimonial-title {
+    margin-top: 100px;
+  }
+  .testimonial-height {
+    margin-top: 0;
+    height: 788px;
+    margin-bottom: 130px;
+  }
+  .blog-area {
+    margin-bottom: 90px;
+  }
+  .award-area {
+    flex-direction: column;
+  }
+  .award-title {
+    width: 100%;
+  }
+  .awards {
+    padding-top: 40px;
+    padding-bottom: 40px;
+  }
+  .footer-touch-area,
+  .footer-contact-area {
+    margin-top: 30px;
+  }
+  .slider-bg-text {
+    left: 0;
+  }
+  .pl-20.pt-30.pb-2 {
+    padding-left: 0;
+  }
+
+} 
+
+
+
+
+/* Extra small Device. */
+@media (min-width: 577px) and (max-width: 768px) {
+  .main-menu.dark, .main-menu.dark ul ul {
+    background: transparent;
+  }
+  .footer-about-area p {
+    padding-right: 0;
+  }
+  .sub-btn::before {
+    left: 75px;
+    bottom: 29px;
+  }
+  .pl-20.pt-30.pb-2 {
+    padding-left: 0;
+  }
+  .slider-img {
+    width: 100%;
+    height: 600px;
+    padding-left: 0;
+    padding-top: 0;
+    margin-bottom: 130px;
+  }
+  .slider-text {
+    padding-top: 100px;
+  }
+  .slick-slider .slick-dots {
+    left: 50%;
+    margin-left: 0;
+  }
+  .single-feature.d-flex.justify-content-end,.single-feature.d-flex.justify-content-center,.feature-area .row {
+    justify-content: inherit!important;
+  }
+  .single-feature {
+    border: none;
+  }
+  .feature-height {
+    min-height: 542px;
+    padding: 30px;
+  }
+  .bdr-bottom{
+    border: none;
+  }
+  .about-margin {
+    margin-top: 0;
+  }
+  .feature-height {
+    min-height: 713px;
+    padding: 30px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+  }
+  h1 {
+    font-size: 85px;
+  }
+  .about-right {
+    margin-top: 120px;
+  }
+  .about-right .title {
+    padding-right: 50px;
+  }
+  .title-bottom.title-center {
+    padding: 0;
+  }
+  .about-left img {
+    width: 100%;
+    height: 490px;
+  }
+  .psychologist-left {
+    width: 100%;
+    height: 630px;
+    margin-top: 125px;
+    margin-left: 0;
+    text-align: center;
+  }
+  .appointment-top {
+    margin-top: 130px;
+  }  
+  .psychologist-height {
+    min-height: 740px;
+  }
+  .achievement li.border-left {
+    border-left: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-bottom {
+    border-bottom: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-right {
+    border-right: none!important;
+    padding-left: 0;
+  }
+  .price-content {
+    margin-bottom: 50px;
+    padding-bottom: 130px;
+  }
+  .map-area {
+    width: 100%;
+    height: 560px;
+    margin-top: 90px;
+    margin-left: 0;
+    margin-bottom: 120px;
+  }
+  .title.testimonial-title {
+    margin-top: 100px;
+  }
+  .testimonial-height {
+    margin-top: 0;
+    height: 653px;
+    margin-bottom: 130px;
+  }
+  .blog-area {
+    margin-bottom: 65px;
+  }
+  .award-area {
+    flex-direction: column;
+  }
+  .award-title {
+    width: 100%;
+  }
+  .footer-touch-area {
+    margin-top: 30px;
+    margin-left: 10px;
+  }
+  .footer-touch-area p {
+    padding-right: 0;
+  }
+  .footer-contact-area {
+    margin-top: 30px;
+  }
+  .slider-bg-text {
+    left: 0;
+  }
+  .case-studies-slider.slick-initialized.slick-slider li.single-case {
+	transform: scale(.98);
+}
+li.single-case.slick-slide.slick-current.slick-active.slick-center {
+	transform: scale(.98);
+}
+.slick-slider .l-a {
+	left: 15px;
+}
+.slick-slider .r-a {
+	right: 15px;
+}
+.blog-bottom {
+	flex-direction: column;
+}
+  .title h3 {
+    font-size: 38px;
+  }
+  .price-img img,.psychologist-left img,.single-ser-height img {
+    width: 100%;
+  }
+  .psychologist-right .title {
+    margin-top: 75px;
+  }
+  .psychologist-right {
+    padding-bottom: 130px;
+  }
+  .appointment-right {
+    min-height: 1045px;
+    padding-left: 0;
+    margin: 40px -15px 0 15px;
+  }
+  .achievement li {
+    min-width: 100%;
+    text-align: center;
+  }
+  .appointment-right .title {
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .appointment-right .title {
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .price-area {
+    padding-bottom: 0;
+  }
+  .contact-height {
+    margin-top: 50px;
+  }
+  .contact-form .title {
+    padding-right: 165px;
+  }
+  .awards {
+    padding-top: 60px;
+    padding-bottom: 25px;
+  }
+  .awards li {
+    width: 32%;
+    margin-bottom: 35px;
+    display: inline-block;
+    float: none;
+  }
+  .footer-bottom-contant {
+    flex-direction: column;
+  }
+  .footer-bottom-contant li {
+    margin: 5px 0;
+  }
+  .case-title {
+    left: 118px;
+    right: 247px;
+  }
+}
+   
+/* SM Small Device :550px. */
+@media (min-width: 451px) and (max-width:576px) {
+  .main-menu.mobile.left > ul, .main-menu.mobile.right > ul {
+    max-width: 60%;
+  }
+  .main-menu.dark, .main-menu.dark ul ul {
+    background: transparent;
+  }
+  .slider-img {
+    width: 100%;
+    padding-left: 0;
+    padding-top: 0;
+    margin-bottom: 130px;
+    max-height: 400px;
+  }
+  .appointment-left {
+    margin-right: 15px;
+  }
+  .sub-btn::before {
+    left: 65px;
+    bottom: 29px;
+  }
+  .slider-text {
+    padding-top: 100px;
+  }
+  .pl-20.pt-30.pb-2 {
+    padding-left: 0;
+  }
+  .slick-slider .slick-dots {
+    left: 50%;
+    margin-left: 0;
+  }
+  .case-studies-slider.slick-initialized.slick-slider li.single-case {
+    transform: scale(.98);
+  }
+  li.single-case.slick-slide.slick-current.slick-active.slick-center {
+    transform: scale(.98);
+  }
+  .slick-slider .l-a {
+    left: 7px;
+  }
+  .slick-slider .r-a {
+    right: 7px;
+  }
+  .subject {
+    margin-bottom: 20px;
+  }
+  .single-feature.d-flex.justify-content-end,.single-feature.d-flex.justify-content-center,.feature-area .row {
+    justify-content: inherit!important;
+  }
+  .single-feature {
+    border: none;
+    margin-bottom: 0;
+  }
+  .bdr-bottom{
+    border: none;
+  }
+  .about-margin {
+    margin-top: 0;
+  }
+  .feature-height {
+    padding: 30px;
+    padding-top: 110px;
+    padding-bottom: 100px;
+  }
+  .about-right {
+    margin-top: 120px;
+    margin-left:0;
+  }
+  .about-right .title {
+    padding-right: 50px;
+  }
+  .title-center {
+    padding: 0 20px;
+  }
+  .psychologist-left {
+    height: 630px;
+    margin-top: 125px;
+    margin-left: 0;
+    text-align: center;
+    width: 100%;
+  }
+  .appointment-top {
+    margin-top: 130px;
+  }  
+  .psychologist-height {
+    min-height: 740px;
+  }
+  .achievement li.border-left {
+    border-left: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-bottom {
+    border-bottom: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-right {
+    border-right: none!important;
+    padding-left: 0;
+  }
+  .price-content {
+    margin-bottom: 50px;
+    padding-bottom: 130px;
+  }
+  .map-area {
+    width: 100%;
+    height: 560px;
+    margin-top: 90px;
+    margin-left: 0;
+    margin-bottom: 120px;
+  }
+  .subscription {
+    padding-right: 100px;
+  }
+  .about-left img {
+    height: 400px;
+  }
+  .experience {
+    width: 240px;
+    height: 160px;
+  }
+  .experience p {
+    font-size: 24px;
+  }
+  .title.testimonial-title {
+    margin-top: 100px;
+  }
+  .testimonial-height {
+    margin-top: 0;
+    height: 910px;
+    margin-bottom: 0;
+  }
+  .blog-area {
+    margin-bottom: 120px;
+  }
+  .award-area {
+    flex-direction: column;
+  }
+  .award-title {
+    width: 100%;
+  }
+  .footer-touch-area,
+  .footer-contact-area {
+    margin-top: 30px;
+  }
+  .slider-bg-text {
+    left: 0;
+  }
+  .title h3 {
+    font-size: 32px;
+  }
+  .price-img img,
+  .psychologist-left img,
+  .single-ser-height img {
+    width: 100%;
+  }
+  .price-img img,.psychologist-left img,.single-ser-height img {
+    width: 100%;
+    height: 100%;
+  }
+  .psychologist-right .title {
+    margin-top: 65px;
+  }
+  .psychologist-right {
+    padding-bottom: 130px;
+  }
+  .appointment-right {
+    min-height: 1045px;
+    padding-left: 0;
+    margin: 40px -15px 0 15px;
+    margin-right: 0;
+  }
+  .achievement li {
+    min-width: 100%;
+    text-align: center;
+  }
+  .appointment-right .title {
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .appointment-right .title {
+    padding-left: 50px;
+    padding-top: 50px;
+  }
+  .price-area {
+    padding-bottom: 0;
+  }
+  .contact-height {
+    margin-top: 50px;
+  }
+  .contact-form .title {
+    padding-right: 165px;
+  }
+  .awards {
+    padding-top: 60px;
+    padding-bottom: 25px;
+  }
+  .footer-bottom-contant li {
+    margin-bottom: 10px;
+  }
+  .awards li {
+    float: none;
+    width: 46%;
+    margin-bottom: 35px;
+    display: inline-block;
+  }
+  .footer-about-area p {
+    padding-right: 0;
+  }
+  .footer-touch-area {
+    margin-left: 0;
+  }
+  .footer-bottom-contant {
+    flex-direction: column;
+  }
+  .footer-service-area {
+    margin-top: 30px;
+  }
+  h1 {
+    font-size: 76px;
+    line-height: 90px;
+  }
+  .slick-slider ul.slick-dots li {
+	float: left;
+	margin: 10px 23px;
+	position: relative;
+  }
+  .about-features li {
+    float: inherit;
+    width: 100%;
+  }
+  .about-details {
+    flex-direction: column;
+  }
+  .about-details li{
+    margin-bottom:10px
+  }
+  .ceo {
+    margin-top: 27px;
+  }
+  .about-details .btn {
+    width: 267px;
+  }
+  .top {
+    right: 11px;
+    bottom: 89px;
+  }
+  .case-title {
+	left: 118px;
+	right: 247px;
+}
+
+}
+  
+/* SM Small Device :450px. */
+@media (min-width: 0px) and (max-width:450px) {
+  .main-menu.mobile.left > ul, .main-menu.mobile.right > ul {
+    max-width: 80%;
+  }
+  .main-menu.dark, .main-menu.dark ul ul {
+    background: transparent;
+  }
+  .title-center {
+	margin: 0 -15px;
+}
+  .slider-img {
+    width: 100%;
+    height: 400px;
+    padding-left: 0;
+    padding-top: 0;
+    margin-bottom: 130px;
+  }
+  .experience {
+    width: 220px;
+    height: 160px;
+  }
+  .pl-20.pt-30.pb-2 {
+    padding-left: 0;
+  }
+  .experience p {
+    font-size: 20px;
+    padding: 28px 30px;
+  }
+  .sub-btn::before {
+    left: 66px;
+    bottom: 30px;
+  }
+  .footer-touch-area p {
+    padding-right: 0;
+  }
+  .slider-text {
+    padding-top: 70px;
+  }
+  .subject {
+	margin-bottom: 20px;
+}
+  .slick-slider .slick-dots {
+    left: 50%;
+    margin-left: 0;
+  }
+  .single-feature.d-flex.justify-content-end,.single-feature.d-flex.justify-content-center,.feature-area .row {
+    justify-content: inherit!important;
+  }
+  .single-feature {
+    box-shadow:none;
+    border: none;
+  }
+  .title.testimonial-title {
+    margin-bottom: 0;
+  }
+  .row.pr-15.pl-15 {
+    padding: 0;
+  }
+  .quote {
+    right: 20px;
+  }
+  .bdr-bottom{
+    border: none;
+  }
+  .about-margin {
+    margin-top: 0;
+  }
+  .feature-height {
+    min-height: 542px;
+    padding: 0;
+    padding-top: 130px;
+    padding-bottom: 100px;
+  }
+  .about-right {
+    margin-top: 120px;
+    margin-left:0;
+  }
+  .title-center {
+    padding: 0;
+  }
+  .psychologist-left {
+    height: 545px;
+    margin-top: 125px;
+    margin-left: 0;
+    text-align: center;
+    width: 100%;
+  }
+  .appointment-top {
+    margin-top: 130px;
+  }  
+  .psychologist-height {
+    min-height: 740px;
+  }
+  .achievement li.border-left {
+    border-left: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-bottom {
+    border-bottom: none!important;
+    padding-left: 0;
+  }
+  .achievement li.border-right {
+    border-right: none!important;
+    padding-left: 0;
+  }
+  .price-content {
+    margin-bottom: 50px;
+    padding-bottom: 130px;
+  }
+  .map-area {
+    width: 100%;
+    height: 560px;
+    margin-top: 90px;
+    margin-left: 0;
+    margin-bottom: 120px;
+  }
+  .title.testimonial-title {
+    margin-top: 100px;
+  }
+  .testimonial-height {
+    margin-top: 0;
+    height: 900px;
+    margin-bottom: 0;
+  }
+  .blog-area {
+    margin-bottom: 120px;
+  }
+  .award-area {
+    flex-direction: column;
+  }
+  .award-title {
+    width: 100%;
+  }
+  .footer-touch-area,.footer-contact-area {
+    margin-top: 30px;
+  }
+  .slider-bg-text {
+    left: 0;
+  }
+  .title h3 {
+    font-size: 27px;
+    line-height: 50px;
+  }
+  .price-img img,.psychologist-left img,.single-ser-height img {
+    width: 100%;
+  }
+  /* .price-img img, .psychologist-left img, .single-ser-height img {
+    width: 100%;
+    height: 100%;
+  } */
+  .psychologist-right .title {
+    margin-top: 35px;
+  }
+  .psychologist-right {
+    padding-bottom: 130px;
+  }
+  .appointment-right {
+    min-height: 1045px;
+    padding-left: 0;
+    margin: 40px -15px 0 15px;
+    margin-right: 0;
+  }
+  .achievement li {
+    min-width: 100%;
+    text-align: center;
+  }
+  .appointment-right .title {
+    padding-left: 5px;
+    padding-top: 50px;
+  }
+  .price-area {
+    padding-bottom: 0;
+  }
+  .contact-height {
+    margin-top: 50px;
+  }
+  .contact-form .title {
+    padding-right: 0;
+    margin-bottom: 20px;
+  }
+  .awards {
+    padding-top: 60px;
+    padding-bottom: 25px;
+  }
+  .footer-bottom-contant li {
+    margin-bottom: 10px;
+  }
+  .awards li {
+    width: 46%;
+    margin-bottom: 35px;
+    display: inline-block;
+  }
+  .footer-about-area p {
+    padding-right: 0;
+  }
+  .footer-touch-area {
+    margin-left: 0;
+  }
+  .footer-bottom-contant {
+    flex-direction: column;
+  }
+  .footer-service-area {
+    margin-top: 30px;
+  }
+  h1 {
+  font-size: 72px;
+  font-weight: 600;
+  color: #fff;
+  line-height: 90px;
+  }
+  .slick-slider ul.slick-dots li {
+    margin: 10px 16px;
+  }
+    .about-features li {
+    float: inherit;
+    width: 100%;
+  }
+  .about-details {
+    flex-direction: column;
+  }
+  .about-details li{
+    margin-bottom:10px
+  }
+  .ceo {
+    margin-top: 30px;
+  }
+  .top {
+    right: 11px;
+    bottom: 30px;
+  }
+  h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .btn a {
+    width: 215px;
+    height: 58px;
+    line-height: 58px;
+  }
+  .feature-img {
+    margin-bottom: 13px;
+  }
+  .about-left img {
+    height: 400px;
+  }
+  .message {
+    margin-top: 22px;
+  }
+  .signature {
+    text-align: right;
+    margin-top: 38px;
+  }
+  form.primary-bg {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+  }
+  .case-title h5 {
+    padding: 0;
+  }
+  .psychologist-details {
+    flex-direction: column;
+  }
+  .single-testimonial {
+    padding: 45px 17px;
+  }
+  .blog-bottom {
+    flex-direction: column;
+  }
+  .blog-content h5 {
+    font-size: 23px;
+  }
+
+}
+
+@media (max-width:350px){
+  .main-menu.mobile.left > ul, .main-menu.mobile.right > ul {
+    max-width: 100%;
+  }
+  .main-menu.dark, .main-menu.dark ul ul {
+    background: transparent;
+  }
+  h1 {
+    font-size: 45px;
+    line-height: 65px;
+  }
+  .achievement li.pl-20 {
+    margin-left: 0;
+  }
+  .sub-btn::before {
+    left: 72px;
+    bottom: 64px;
+  }
+  .slider-text p {
+    font-size: 13px;
+  }
+  .slider-img {
+    height: 370px;
+  }
+  .slick-slider ul.slick-dots li {
+    margin: 10px 11px;
+  }
+   .single-case.position-relative.slick-slide.slick-current.slick-active,
+  .case-studies-slider.slick-initialized.slick-slider li.single-case {
+    width: 290px;
+    height: 400px;
+    margin: 0;
+  }
+  .psychologist-details .btn {
+    margin-right: 40px;
+  }
+  h4 {
+    font-size: 27px;
+  }
+  .testimonial-height {
+    height: 990px;
+    margin: 0 -15px;
+  }
+  .patient {
+    padding: 28px 5px;
+  }
+
+  .appointment-right {
+    box-shadow: none;
+  }
+  .appointment-top {
+    margin: 0 -15px;
+  }
+  .contact-height {
+    margin:0 -15px;
+  }
+  .map-area iframe {
+    border-radius: 0;
+  }
+  .single-feature {
+    padding: 0 10px;
+    flex-direction: column;
+    margin-bottom: 40px;
+  }
+  .about-left {
+    margin: 0 -15px;
+  }
+  .blog-area {
+    margin: 0 -15px;
+  }
+  .blog-content {
+    margin-left: 10px;
+    margin-right: 0;
+  }
+  .psychologist-right .title {
+    margin-top: 0;
+  }
+  .form-title {
+    padding: 45px 20px;
+  }
+  p {
+    font-size: 15px;
+  }
+  .about-left img {
+    height: 400px;
+  }
+  .experience p {
+    font-size: 17px;
+    line-height: 29px;
+    padding: 25px 20px;
+  }
+  .experience {
+    width: 166px;
+    height: 134px;
+  }
+  .service-title h5 {
+    font-size: 20px;
+  }
+  .psychologist-left {
+    height: 400px;;
+  }
+  .appointment-left {
+    padding-right: 15px;
+  }
+  form {
+    padding: 35px 10px;
+  }
+  .title h3 {
+    font-size: 28px;
+    line-height: 44px;
+  }
+  .price-area .title p {
+    font-size: 13px;
+  }
+  .single-testimonial {
+    padding: 45px 12px;
+  }
+  .patient h5 {
+    font-size: 24px;
+  }
+  .blog-content {
+    right: 25px;
+  }
+  .award-title h5 {
+    font-size: 43px;
+  }
+  .awards li {
+    width: 100%;
+  }
+  .footer-bottom-left {
+    flex-direction: column;
+  }
+  .footer-area p, .footer-area a {
+    font-size: 15px;
+  }
+  .top {
+    bottom: 72px;
+  }
+  .psychologist-right h5 {
+    line-height: 37px;
+    margin-bottom: 17px;
+  }
+
+}
+
+/* ======================================================== */
+
+
+
